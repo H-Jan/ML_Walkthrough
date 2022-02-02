@@ -19,7 +19,7 @@ This demo is written exclusively in **Python**, though makes use of extensive li
 - SkLearn
   - A Machine Learning Python library used to divide and analyze our data
 
-**Note** Despite the above tech stack, this notebook is intended to run as demonstration of M.L. algorithms, not testing skills
+**Note** Despite the above tech stack, this notebook is intended to run as demonstration of Machine Learning algorithms, not testing skills
 
 ## Set Up 
 There are two distinct ways of setting up this project: 
